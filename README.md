@@ -1,6 +1,6 @@
 # Doubly-Robust Functional Average Treatment Effect Estimation
 
-This repository contains the code for the paper "Doubly-Robust Functional Average Treatment Effect Estimation" by Testa, Boschi, Chiaromonte, Kennedy and Reimherr (2025+) available on [arXiv](https://arxiv.org/abs/2501.06024).
+This repository contains the code for the paper ["Doubly-Robust Functional Average Treatment Effect Estimation"](https://doi.org/10.1515/jci-2025-0045) by Testa, Boschi, Chiaromonte, Kennedy and Reimherr, Journal of Causal Inference (2026), 14(1).
 
 The Python scripts in this repository implement the simulation study and the real-data analysis described in the paper. The files are organized as follows:
 
